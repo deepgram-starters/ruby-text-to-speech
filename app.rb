@@ -384,3 +384,5 @@ class App < Sinatra::Base
     super
   end
 end
+
+App.start! if __FILE__ == $PROGRAM_NAME
