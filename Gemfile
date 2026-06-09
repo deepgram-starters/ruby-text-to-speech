@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'sinatra', '~> 4.1'
 gem 'sinatra-cross_origin', '~> 0.4'
-gem 'puma', '~> 6.5'
+gem 'puma', '~> 7.2'
 gem 'rackup'
 gem 'jwt', '~> 2.9'
 gem 'toml-rb', '~> 3.0'
